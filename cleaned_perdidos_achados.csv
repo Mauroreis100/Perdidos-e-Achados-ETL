@@ -1,0 +1,314 @@
+,Item,Estado,Edíficios / Parque de estacionamento / Pontos de Interesse ,Sala / Corredor / WC,Data,Hora do reporte,Categoria,Cor
+0,Caderno,perdido,SM,117,19/04/2024,09:59,Material Escolar,Preto
+1,Livro ,perdido,SM,122,29/10/2024,22:54,Livro,Preto
+2,BI,recuperado,,NE,16/12/2024,16:10,Documentos,Azul
+3,Boné ,perdido,D1,SI3,03/12/2024,17:33,Acessórios (roupa),Preto
+4,BI,achado,D2,102,03/12/2024,10:56,Documentos,Azul
+5,Livro,achado,,NE,02/12/2024,15:43,Livro,Branco
+6,Chaveiro,achado,E,102,30/11/2024,16:37,Chaveiro,Preto
+7,Telemóvel,achado,D1,Entrada,30/11/2024,11:33,Telemóvel,
+8,Fones de ouvido,achado,,CENTRO SOCIAL,26/11/2024,16:21,Electrónicos,Preto
+9,Bebedor ,achado,D1,204,26/11/2024,11:34,Bebedor,Preto
+10,Chapéu ,perdido,,NE,25/11/2024,16:44,Acessórios (roupa),Cinzento
+11,Bebedor,achado,D2,102,20/11/2024,18:06,Bebedor,Azul
+12,Bebedor ,achado,E,Corredores,20/11/2024,9:19,Bebedor,Rosa
+13,Pen drive,perdido,D2,112,19/11/2024,21:31,Acessório de computador & periféricos,Preto
+14,Carregador de telemóvel,perdido,D1,Lab Fis 1 / Electronica,19/11/2024,20:08,Carregador,
+15,Camisola,perdido,SM,117,19/11/2024,18:55,Acessórios (roupa),Preto
+16,Calculadora ,achado,E,101,18/11/2024,15:05,Material Escolar,Cinzento
+17,Bebedor,achado,Lanchonete,CENTRO SOCIAL,18/11/2024,17:35,Bebedor,Azul
+18,Telemóvel,achado,D1,SI2-210,18/11/2024,17:32,Telemóvel,Preto
+19,Óculos,achado,D1,SI4,18/11/2024,15:09,Objectos de uso pessoal,Cinzento
+20,Fones de ouvido,achado,D1,101,16/11/2024,15:43,Electrónicos,Branco
+21,Carregador de Laptop,perdido,D1,SI5,14/11/2024,,Carregador,Preto
+22,Telemóvel,achado,E,107,30/10/2024,15:31,Telemóvel,Preto
+23,Carregador de Laptop,achado,D1,SI5,30/10/2024,14:46,Carregador,Preto
+24,Telemóvel,achado,D1,204,29/10/2024,12:31,Telemóvel,Preto
+25,Chapéu ,perdido,D2,102,29/10/2024,13:42,Acessórios (roupa),Azul
+26,Dopp Kit,achado,E,106,29/10/2024,11:29,Recipiente,Preto
+27,Variados,achado,SM,122,28/10/2024,16:07,Material Escolar,Multicolor
+28,Variados,achado,SM,122,28/09/2024,16:07,Material Escolar,Multicolor
+29,Camisola,achado,SM,121,28/10/2024,13:12,Acessórios (roupa),Preto
+30,BI,achado,,NE,19/10/2024,23:25,Documentos,Azul
+31,Pen-drive,achado,D1,SI5,18/10/2024,11:00,Acessório de computador & periféricos,Cinzento
+32,Pasta,achado,SM,121,17/10/2024,19:42,Material Escolar,Preto
+33,Variados,achado,,NE,17/10/2024,NE,,Multicolor
+34,Telefone ,achado,D1,Reprografia,16/10/2024,17:14,Telemóvel,Preto
+35,Guarda-chuva ,achado,D1,LabCivil,15/10/2024,17:30,Guarda-chuva,Verde
+36,Pulseira ,achado,E,104,15/10/2024,17:16,Joalharia,Cinzento
+37,Carregador de Laptop ,perdido,D1,SI5,15/10/2024,13:20,Carregador,Amarelo
+38,Cabo ,achado,D1,WC Rés-do-Chão - Mulher,14/10/2024,15:21,Acessório de computador & periféricos,Branco
+39,Laptop ,achado,E,109,14/10/2024,15:19,Electrónicos,Cinzento
+40,BI,achado,D2,102,14/10/2024,15:13,Documentos,Azul
+41,Carregador ,recuperado,D1,SI4,12/10/2024,09:24,Carregador,Preto
+42,Telefone,perdido,,CENTRO SOCIAL,11/10/2024,14:57,Telemóvel,Preto
+43,Chaveiro ,achado,,CENTRO SOCIAL,10/10/2024,15:53,Chaveiro,Preto
+44,Carregador,achado,D1,SI2-210,10/10/2024,13:26,Carregador,Preto
+45,Carregador de Laptop,perdido,,Corredores,10/10/2024,13:16,Carregador,Preto
+46,Carregador de Laptop,recuperado,E,107,10/10/2024,12:19,Carregador,Preto
+47,Estojo,recuperado,,NE,10/10/2024,07:48,Material Escolar,Preto
+48,Pen-drive,achado,SM,119,08/10/2024,15:09,Acessório de computador & periféricos,Preto
+49,Chapéu ,recuperado,D1,SI4,08/10/2024,13:26,Acessórios (roupa),Cinzento
+50,Caderno ,achado,E,106,03/10/2024,10:52,Material Escolar,Preto
+51,Bebedor,perdido,D2,112,02/10/2024,18:38,Bebedor,Preto
+52,Carregador de Telefone ,achado,SM,122,02/10/2024,11:45,Carregador,Branco
+53,Teste,achado,,CENTRO SOCIAL,01/10/2024,18:29,Documentos,Branco
+54,Pen-drive,achado,E,106,01/10/2024,13:19,Acessório de computador & periféricos,Cinzento
+55,Carteira ,recuperado,E,Corredores,30/09/2024,18:46,Documentos,Azul
+56,Carregador de Telefone,achado,E,105,26/09/2024,15:18,Carregador,Branco
+57,Airpods,achado,E,105,26/09/2024,15:18,Electrónicos,Branco
+58,Carregador de Laptop,achado,D1,SI4,26/09/2024,15:09,Carregador,Preto
+59,Caderno,achado,E,103,26/09/2024,13:11,Material Escolar,Preto
+60,Powerbank ,achado,D1,101,24/09/2024,19:26,Electrónicos,Preto
+61,Calculadora,perdido,SM,117,23/09/2024,18:54,Material Escolar,Amarelo
+62,Carregador de Laptop ,achado,D1,SI1,23/09/2024,13:20,Carregador,Preto
+63,Cartão do Banco,achado,,CENTRO SOCIAL,20/09/2024,17:31,Cartões,Rosa
+64,Carteira,recuperado,D1,SI4,20/09/2024,13:24,Documentos,Castanho
+65,Pasta de Arquivo ,recuperado,SM,121,18/09/2024,19:47,Documentos,Branco
+66,Carregador de Telefone,perdido,SM,117,17/09/2024,13:56,Carregador,Preto
+67,Nintendo Switch ,achado,,NE,16/09/2024,17:25,Electrónicos,Preto
+68,Bebedor,perdido,D1,Perto da reprografia,12/09/2024,19:14,Bebedor,Azul
+69,Pen-drive ,achado,D1,SI4,17/09/2024,12:23,Acessório de computador & periféricos,Cinzento
+70,Borracha,achado,D1,202,11/09/2024,19:13,Material Escolar,Azul
+71,Pen-drive,achado,D1,SI5,09/09/2024,13:37,Acessório de computador & periféricos,Vermelho
+72,Pen-drive,recuperado,E,109,06/09/2024,15:14,Acessório de computador & periféricos,Preto
+73,Calculadora ,achado,E,102,06/09/2024,14:55,Material Escolar,
+74,S Pen,recuperado,D1,202,05/09/2024,07:20,Electrónicos,Preto
+75,Mouse,achado,D1,SI1,05/09/2024,07:05,Acessório de computador & periféricos,Preto
+76,INI,achado,D1,101,04/09/2024,14:34,,Preto
+77,Tigela,achado,E,106,02/09/2024,17:22,Recipiente,Roxo
+78,Headphones,achado,,NE,02/09/2024,17:01,Electrónicos,Roxo
+79,Mouse,achado,D1,SI2-210,02/09/2024,13:43,Acessório de computador & periféricos,Preto
+80,BI,achado,D1,LabFis2,02/09/2024,15:19,Documentos,Verde
+81,Xaile,achado,E,106,02/09/2024,13:08,Acessórios (roupa),Preto
+82,Caderno,achado,D1,CENTRO SOCIAL,02/09/2024,10:26,Material Escolar,Preto
+83,Carregador de laptop ,perdido,D1,204,29/08/2024,15:51,Carregador,Preto
+84,Powerbank,perdido,D2,106,28/08/2024,20:29,Electrónicos,Branco
+85,Chaveiro,achado,D1,202,28/08/2024,17:20,Chaveiro,Preto
+86,Carregador ,recuperado,E,106,27/08/2024,17:58,Carregador,Preto
+87,Casaco,perdido,D1,202,26/08/2024,13:00,Acessórios (roupa),Preto
+88,Estojo,achado,SM,119,23/08/2024,16:08,Material Escolar,Cinzento
+89,Auriculares ,achado,,NE,22/08/2024,13:21,Electrónicos,Preto
+90,Cabo,achado,,NE,21/08/2024,11:29,Electrónicos,Branco
+91,Cadernos,achado,SM,120,16/08/2024,11:51,Material Escolar,Preto
+92,Pen-drive,achado,D1,SI4,16/08/2024,11:39,Acessório de computador & periféricos,Preto
+93,Caderno ,achado,D1,SI4,16/08/2024,11:38,Material Escolar,Branco
+94,Caderno,achado,SM,120,15/08/2024,20:22,Material Escolar,Preto
+95,Pasta,perdido,,NE,14/08/2024,20:41,Material Escolar,Preto
+96,Telefone ,achado,D1,LabCivil,14/08/2024,15:56,Telemóvel,Vermelho
+97,Carregador de telefone ,achado,D1,SI2-210,14/08/2024,13:08,Carregador,Branco
+98,Pen-drive,perdido,D1,SI2-210,13/08/2024,12:26,Acessório de computador & periféricos,Preto
+99,Mouse,perdido,D1,SI2-210,13/08/2024,12:26,Acessório de computador & periféricos,Preto
+100,Borracha,achado,D1,202,12/08/2024,13:13,Material Escolar,Branco
+101,INI,achado,E,201,12/07/2024,18:12,,Branco
+102,Telefone,achado,,NE,11/07/2024,16:14,Telemóvel,Azul
+103,Telemóvel ,achado,SM,118,10/07/2024,13:06,Telemóvel,Azul
+104,Cartão do Banco,achado,D1,101,10/08/2024,11:17,Cartões,Cinzento
+105,Carteira ,achado,D2,112,10/07/2024,10:28,Documentos,Preto
+106,BI,achado,D2,102,03/07/2024,16:40,Cartões,Azul
+107,Cartão de Eleitor ,achado,D1,204,03/07/2024,16:08,Documentos,Verde
+108,Estojo,achado,,NE,02/07/2024,13:20,Material Escolar,Azul
+109,Carregador de Telefone ,perdido,D1,LabTec1,03/07/2024,16:07,Carregador,Preto
+110,Carregador de Telefone,perdido,D2,102,01/07/2024,20:09,Carregador,Preto
+111,Bebedor,achado,,NE,01/07/2024,13:18,Bebedor,Azul
+112,Cartão de Eleitor,achado,D1,SI4,01/07/2024,10:35,Cartões,Verde
+113,INI,achado,SM,119,28/06/2024,13:05,Electrónicos,Branco
+114,Pen-drive,achado,,NE,27/06/2024,21:17,Acessório de computador & periféricos,Preto
+115,Guarda-chuva ,perdido,E,205,26/06/2024,13:36,Guarda-chuva,Cinzento
+116,Cartão de Banco,achado,,NE,26/06/2024,11:17,Documentos,Multicolor
+117,Cartão de Estudante,achado,,NE,26/06/2024,11:17,Documentos,Branco
+118,BI,achado,,NE,26/06/2024,11:17,Documentos,Verde
+119,Guarda-chuva ,perdido,D1,SI4,27/06/2024,16:43,Guarda-chuva,
+120,BI ,achado,,Parque de Estacionamento,19/06/2024,16:33,Documentos,Azul
+121,Lancheira,recuperado,D1,204,19/06/2024,16:12,Recipiente,Roxo
+122,Caderno,achado,E,103,26/09/2024,13:11,Material Escolar,Preto
+123,Chaveiro,perdido,,NE,19/06/2024,14:37,Chaveiro,Castanho
+124,BI,achado,Parque Livre,Parque de Estacionamento,18/06/2024,16:02,Documentos,Verde
+125,BI,achado,D2,111,17/06/2024,16:53,Documentos,Verde
+126,Estojo,perdido,Lanchonete,CENTRO SOCIAL,16/06/2024,10:51,Material Escolar,Branco
+127,BI,achado,D1,Entrada,12/09/2024,NE,Documentos,Amarelo
+128,Cabos,perdido,,NE,15/06/2024,19:30,Acessório de computador & periféricos,Preto
+129,Carregador,perdido,D1,SI4,15/06/2024,19:23,Carregador,Preto
+130,Calculadora,achado,D1,204,15/06/2024,12:19,Material Escolar,Cinzento
+131,Capa de chuva quispo,perdido,D1,LabTec1,14/06/2024,14:30,Acessórios (roupa),Azul
+132,Calculadora ,perdido,,Pátio,14/06/2024,14:03,Material Escolar,Preto
+133,Bebedor ,achado,D1,LabTec1,14/06/2024,13:23,Bebedor,Azul
+134,Bebedor,achado,D1,WC Rés-do-Chão - Mulher,14/06/2024,21:47,Bebedor,Azul
+135,Carregador de Laptop ,perdido,,NE,13/06/2024,13:52,Carregador,Preto
+136,Carregador ,perdido,D2,NE,12/06/2024,13:47,Carregador,Preto
+137,INI,achado,D1,Reprografia,10/06/2024,09:34,,Preto
+138,Headphones,perdido,,Corredores,08/06/2024,14:41,Electrónicos,Preto
+139,Calculadora ,perdido,D1,SI4,08/06/2024,09:45,Material Escolar,Preto
+140,Caderno,perdido,D1,SI4,08/06/2024,09:45,Material Escolar,Preto
+141,Camisola,achado,D1,Biblioteca,07/06/2024,18:37,Acessórios (roupa),Preto
+142,Caderno,achado,D1,SI3,07/06/2024,13:20,Material Escolar,Preto
+143,Bebedor,achado,,NE,07/06/2024,10:27,Bebedor,Amarelo
+144,Carregador ,perdido,D1,SI5,07/06/2024,09:48,Carregador,
+145,Dinheiro 100mt,achado,SM,116,06/06/2024,16:22,DInheiro,Vermelho
+146,Carregador de Laptop,achado,D1,SI3,06/06/2024,11:27,Carregador,Preto
+147,Calculadora ,perdido,D2,Corredores,05/06/2024,18:55,Material Escolar,Cinzento
+148,Auriculares ,recuperado,,CENTRO SOCIAL,04/06/2024,15:21,Acessório de computador & periféricos,Branco
+149,Caderno,perdido,D1,Corredores,03/06/2024,18:44,Material Escolar,Multicolor
+150,Óculos ,recuperado,D1,204,03/06/2024,17:34,Objectos de uso pessoal,Transparente
+151,Chaves,achado,D1,Lab Fis 1 / Electronica,03/06/2024,15:14,Chaveiro,Cinzento
+152,Telefone,achado,E,203,31/05/2024,11:21,Telemóvel,
+153,Chaves de carro,recuperado,D1,202,30/05/2024,17:15,Chaveiro,Preto
+154,Carteira,perdido,D1,SI4,30/05/2024,08:14,Documentos,Castanho
+155,Calculadora ,perdido,,NE,29/05/2024,11:41,Material Escolar,Preto
+156,INI,achado,D1,202,29/05/2024,11:32,,
+157,Camisola,perdido,D2,211,24/05/2024,16:59,Acessórios (roupa),
+158,Cadermo,achado,D1,SI4,23/05/2024,15:21,Material Escolar,Preto
+159,INI,achado,D2,112,23/05/2024,10:17,,
+160,Telefone,achado,SM,119,22/05/2024,15:15,Telemóvel,Vermelho
+161,INI,achado,D2,Corredores,22/05/2024,13:31,,Vermelho
+162,Telefone ,achado,E,205,22/05/2024,9:19,Telemóvel,Preto
+163,Trabalho Acadêmico ,achado,D1,101,18/10/2023,8:36,Documentos,Branco
+164,Óculos,achado,E,203,18/10/2023,16:23,Acessórios (roupa),
+165,Bebedor Tupperware rosa,achado,D1,SI2-210,20/10/2023,13:19,Bebedor,Roxo
+166,INI,achado,D1,SI2-210,24/10/2023,9:29,,
+167,Mouse,achado,D1,SI3,24/10/2023,13:13,Acessório de computador & periféricos,
+168,Estojo,achado,D1,SI2-210,24/10/2023,13:17,Material Escolar,Cinzento
+169,Carregador de Laptop,achado,E,NE,24/10/2023,17:06,Carregador,Preto
+170,Pasta de arquivos,achado,SM,121,25/10/2023,17:28,Material Escolar,Branco
+171,Colar,achado,D1,WC Rés-do-Chão - Mulher,25/10/2023,11:30,Joalharia,Cinzento
+172,Caderno,achado,NE,NE,26/10/2023,19:00,Material Escolar,Preto
+173,BI,achado,D1,202,20/11/2023,10:15,Documentos,Amarelo
+174,BI,achado,D1,101,22/11/2023,7:09,Documentos,Verde
+175,Carregador de Laptop,achado,D1,SI2-210,22/11/2023,13:52,Carregador,Preto
+176,Carregador de Laptop,recuperado,D1,SI3,22/11/2023,16:10,Carregador,Preto
+177,Carregador de Telemóvel ,perdido,D1,101,23/11/2023,15:41,Carregador,
+178,Lancheira ,achado,SM,120,23/11/2023,17:37,Recipiente,Vermelho
+179,BI,achado,D1,101,24/11/2023,10:48,Documentos,Azul
+180,Airpods,perdido,NE,NE,29/11/2023,19:57,Electrónicos,Preto
+181,Carregador de Laptop,perdido,D1,SI4,01/12/2023,22:00,Carregador,
+182,Carregador de Laptop,perdido,D1,SI1,04/12/2023,9:44,Carregador,
+183,Bebedor,perdido,SM,121,07/12/2023,13:30,Bebedor,Preto
+184,Bebedor,perdido,D1,WC Rés-do-Chão - Mulher,29/02/2024,9:03,Bebedor,Rosa
+185,INI,achado,D1,205,29/02/2024,13:22,,
+186,Colar ,achado,D1,Biblioteca,01/03/2024,18:23,Joalharia,Cinzento
+187,Chaves de carro,achado,D1,LabFis2,04/03/2024,14:01,Chaveiro,
+188,Cartão do Banco,achado,Parque Livre,Parque de Estacionamento,04/03/2024,15:54,Cartões,
+189,Carregador de Laptop,perdido,SM,121,06/03/2024,22:53,Carregador,
+190,Airpods,achado,E,201,07/03/2024,9:22,Acessório de computador & periféricos,Branco
+191,INI,achado,E,204,07/03/2024,17:17,Recipiente,Rosa
+192,Tigela,recuperado,D1,204,08/03/2024,15:38,Recipiente,Azul
+193,Carregador,perdido,E,201,11/03/2024,12:55,Carregador,
+194,Caderno,achado,D1,204,11/03/2024,13:11,Material Escolar,Preto
+195,Tally counter,achado,D2,102,11/03/2024,"13:12
+",Electrónicos,Rosa
+196,Carregador de Telemóvel ,achado,SM,117,11/03/2024,14:10,Carregador,Branco
+197,Guarda-chuva,perdido,D2,102,12/03/2024,9:24,Guarda-chuva,Verde
+198,Telemóvel,achado,D1,LabFis2,12/03/2024,15:13,Telemóvel,Azul
+199,Guarda-chuva ,achado,SM,119,12/03/2024,17:42,Guarda-chuva,Vermelho
+200,Caderno ,achado,D1,205,14/03/2024,19:01,Material Escolar,Laranja
+201,Wireless Mouse,perdido,D1,SI2-210,14/03/2024,20:38,Acessório de computador & periféricos,
+202,Estojo ,recuperado,SM,121,15/03/2024,15:17,Material Escolar,Laranja
+203,Telefone ,achado,SM,118,15/03/2024,16:09,Telemóvel,Azul
+204,Porta-documentos,perdido,,NE,15/04/2024,19:31,Documentos,Preto
+205,Estojo,achado,D1,SI2-210,03/04/2024,21:34,Material Escolar,Cinzento
+206,Wireless Mouse,recuperado,D1,CENTRO SOCIAL,02/04/2024,14:52,Acessório de computador & periféricos,Branco
+207,Plástico/Sacola,perdido,D2,102,02/04/2024,15:35,Recipiente,
+208,Livro,achado,SM,117,01/04/2024,14:02,Documentos,Preto
+209,Airpods Case,achado,D1,SI1,22/03/2024,7:00,Acessório de computador & periféricos,Preto
+210,Bolsinha ,achado,E,204,22/03/2024,15:25,Recipiente,Preto
+211,INI,achado,E,205,22/03/2024,15:48,,Azul
+212,Pasta de documentos,perdido,D2,112,22/03/2024,18:07,Material Escolar,Roxo
+213,Telefone,perdido,,NE,20/03/2024,00:08,Telemóvel,Azul
+214,Telefone,achado,D1,Entrada,20/03/2024,07:54,Telemóvel,Preto
+215,Guarda-chuva ,perdido,D2,106,20/03/2024,13:40,Guarda-chuva,Preto
+216,Bebedor,achado,E,205,20/03/2024,17:27,Bebedor,Preto
+217,Caderno,achado,Lanchonete,CENTRO SOCIAL,20/03/2024,19:23,Material Escolar,Castanho
+218,Bebedor,achado,Lanchonete,CENTRO SOCIAL,19/03/2024,11:34,Bebedor,Transparente
+219,Telefone,achado,D2,102,19/03/2024,14:48,Telemóvel,Verde
+220,Caderno,recuperado,SM,121,18/03/2024,9:51,Material Escolar,Preto
+221,Calculadora,perdido,D1,Biblioteca,18/03/2024,10:47,Bebedor,
+222,Livro,achado,D1,101,18/03/2024,14:01,Livro,Azul
+223,Guarda-chuva ,achado,D1,101,18/03/2024,14:03,Guarda-chuva,Azul
+224,Bebedor,achado,D1,Corredor,15/03/2024,8:21,Bebedor,Preto
+225,Bebedor,achado,E,106,15/03/2024,11:26,Bebedor,Azul
+226,Chapéu ,perdido,D1,205,03/04/2024,14:02,Acessórios (roupa),Branco
+227,Tigela,recuperado,D1,205,03/04/2024,15:35,Recipiente,Rosa
+228,Auriculares ,achado,SM,118,04/04/2024,13:54,Acessório de computador & periféricos,Branco
+229,Bebedor,perdido,,NE,04/04/2024,14:20,Bebedor,Rosa
+230,Tigela,perdido,E,205,04/04/2024,18:16,Recipiente,Transparente
+231,Guarda-Chuva,achado,D1,SI3,05/04/2024,15:00,Guarda-chuva,Preto
+232,Carteira ,achado,D1,204,05/04/2024,13:32,Documentos,Preto
+233,Guarda-Chuva,achado,D2,106,09/04/2024,13:15,Guarda-chuva,Azul
+234,Airpods Case,achado,Lanchonete,CENTRO SOCIAL,10/04/2024,11:29,Acessório de computador & periféricos,Preto
+235,Carregador de laptop ,perdido,D1,SI3,10/04/2024,16:43,Carregador,
+236,Relógio ,perdido,E,Corredores,10/04/2024,17:03,Joalharia,
+237,Abacate ,achado,D2,102,11/04/2024,12:26,Comida,Verde
+238,Recibo,achado,,NE,11/04/2024,6:53,Documentos,Branco
+239,Carregador de telemóvel,achado,SM,119,11/04/2024,13:52,Carregador,Branco
+240,Calculadora ,achado,D2,112,12/04/2024,11:32,Material Escolar,Preto
+241,Carregador ,perdido,D1,SI2-210,12/04/2024,21:59,Carregador,
+242,INI,achado,D1,LabTec1,15/03/2024,13:22,,
+243,Caderno,achado,SM,116,13/04/2024,11:36,Material Escolar,Preto
+244,Telefone,achado,SM,122,15/04/2024,9:55,Telemóvel,Castanho
+245,INI,achado,D1,204,15/04/2024,11:34,,Preto
+246,Caderno ,achado,SM,122,15/04/2024,13:41,Material Escolar,Azul
+247,Bebedor,perdido,SM,121,15/04/2024,17:54,Bebedor,Azul
+248,INI,achado,D2,111,15/04/2024,19:00,,Preto
+249,Porta-documentos,perdido,,NE,15/04/2024,19:31,Documentos,Preto
+250,Bebedor,perdido,,NE,15/04/2024,10:09,Bebedor,Rosa
+251,Carregador,perdido,D1,SI5,16/04/2024,08:10,Carregador,Preto
+252,Carregador ,achado,D1,SI4,16/04/2024,08:55,Carregador,Preto
+253,Estojo,achado,,CENTRO SOCIAL,16/04/2024,13:11,Material Escolar,Verde
+254,Telefone,achado,D1,WC Rés-do-Chão - Mulher,16/04/2024,13:46,Telemóvel,Azul
+255,Livro,achado,,CENTRO SOCIAL,18/04/2024,18:38,Livro,Preto
+256,Carregador ,achado,D1,SI1,18/04/2024,17:23,Carregador,Branco
+257,Calculadora ,achado,D1,SI1,18/04/2024,12:03,Material Escolar,Preto
+258,Cartão SIM,achado,D1,Biblioteca,18/04/2024,10:48,Cartões,Laranja
+259,telefone,achado,E,203,22/04/2024,17:24,Telemóvel,Vermelho
+260,INI,achado,D2,112,19/04/2024,11:30,Objectos de uso pessoal,Roxo
+261,Telefone,achado,D1,LabCivil,23/04/2024,16:56,Telemóvel,Azul
+262,Laptop,achado,D1,SI4,23/04/2024,17:31,Electrónicos,Preto
+263,INI,achado,D1,SI5,24/04/2024,17:40,,Multicolor
+264,Telefone,achado,D1,Corredores,24/04/2024,NE,Carregador,
+265,caderno,achado,D2,102,25/04/2024,17:18,Material Escolar,Preto
+266,Anel,achado,E,201,25/04/2024,18:46,Joalharia,Cinzento
+267,INI,achado,D1,SI1,25/04/2024,19:49,,Preto
+268,Estojo,achado,D1,101,25/04/2024,17:00,Material Escolar,Vermelho
+269,Pulseira,achado,D1,WC Rés-do-Chão - Mulher,25/04/2024,12:35,Joalharia,Castanho
+270,Chaves de carro,achado,E,202,25/04/2024,11:24,Chaveiro,Preto
+271,teste,achado,D1,Biblioteca,26/04/2024,10:08,Documentos,Branco
+272,ini,achado,,CENTRO SOCIAL,26/04/2024,12:37,,Vermelho
+273,Dicionário,achado,D1,SI4,29/04/2024,16:11,Material Escolar,Laranja
+274,INI,achado,,NE,29/04/2024,13:59,,Azul
+275,Pasta,achado,E,203,30/04/2024,17:08,Material Escolar,Preto
+276,Pasta,achado,SM,119,30/04/2024,13:17,Material Escolar,Azul
+277,Vaselina,achado,SM,122,30/04/2024,11:10,Recipiente,Transparente
+278,Lancheira,achado,E,202,02/05/2024,19:21,Recipiente,Vermelho
+279,Chaves de carro,achado,D1,Corredores,03/05/2024,14:42,Chaveiro,Preto
+280,Caderno,achado,D1,SI3,03/05/2024,13:01,Material Escolar,Branco
+281,Chaveiro,achado,D1,SI4,06/05/2024,13:41,Chaveiro,Azul
+282,Laptop,achado,D1,SI3,06/05/2024,17:24,Electrónicos,Preto
+283,Carregador de Laptop,perdido,D1,SI3,06/05/2024,15:39,Carregador,Preto
+284,BI,achado,SM,120,10/05/2024,13:12,Documentos,Azul
+285,Carregador de Telemóvel,achado,E,106,10/05/2024,17:31,Carregador,Branco
+286,Carregador,perdido,D1,SI2-210,10/05/2024,17:46,Carregador,Preto
+287,Telefone,achado,,NE,14/05/2024,18:32,Telemóvel,Azul
+288,INI,achado,D1,202,16/05/2024,23:26,,
+289,Adaptador,perdido,,NE,16/05/2024,12:13,Acessório de computador & periféricos,Branco
+290,Camisola,achado,,CENTRO SOCIAL,17/05/2024,19:26,Acessórios (roupa),Roxo
+291,Bebedor,perdido,,CENTRO SOCIAL,17/05/2024,16:44,Bebedor,Rosa
+292,Lancheira,achado,D1,101,17/05/2024,19:18,Recipiente,
+293,Telefone,achado,D1,205,21/05/2024,14:58,Telemóvel,Branco
+294,Telefone,achado,,CENTRO SOCIAL,21/05/2024,12:59,Telemóvel,Amarelo
+295,INI,achado,E,204,21/05/2024,12:02,,
+296,estojo,perdido,D1,LabTec1,22/05/2024,17:19,Material Escolar,Preto
+297,case airpods,perdido,D2,209,28/05/2024,14:56,Acessório de computador & periféricos,Preto
+298,Teste,achado,SM,117,22/05/2024,8:58,Documentos,Branco
+299,Caderno,achado,D1,SI2-210,30/08/2024,"11:13
+",Material Escolar,Preto
+300,Xaile,achado,E,102,02/09/2024,13:08,Acessórios (roupa),Preto
+301,BI,achado,D1,Lab Fis 1 / Electronica,02/09/2024,15:19,Documentos,Verde
+302,Tigela (Bolo),achado,D2,102,02/09/2024,11:02,Recipiente,Azul
+303,Carregador ,perdido,E,103,03/09/2024,14:48,Electrónicos,Branco
+304,Lancheira,achado,E,102,06/09/2024,18:11,Recipiente,Vermelho
+305,Telefone,achado,D1,Corredores,12/09/2024,9:28,Electrónicos,Preto
+306,Fotografia,achado,D1,SI1,04/05/2024,11:13,Documentos,Azul
+307,Borracha,achado,,NE,12/08/2024,13:13,Material Escolar,Branco
+308,Laptop,perdido,D2,106,21/06/2024,17:06,Electrónicos,Preto
+309,Guarda-chuva ,perdido,D1,202,27/06/2024,14:05,Guarda-chuva,
+310,Estojo,achado,D2,102,05/08/2024,16:49,Material Escolar,Preto
