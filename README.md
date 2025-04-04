@@ -1,7 +1,51 @@
 # Perdidos-e-Achados-ETL
 
 O Instituto Superior de Transportes e Comunicações (ISUTC) é uma instituição de ensino superior em Moçambique com uma vasta comunidade académica. O campus desta instituição é frequentado por várias pessoas e é bastante recorrente que estas percam ou até esqueçam seus bens em vários locais. Esta ocorrência pode comprometer as actividades do dia-a-dia do estudante, docente ou colaborador da instituição a nível pessoal e académico, como por exemplo ao esquecer bens importantes, como chaves de carro, cadernos e outros bens rotulados valiosos. Como estudantes da instituição desde o ano de 2022, notamos um número crescente de relatos de itens perdidos e/ou achados, no maior meio de comunicação da comunidade estudantil do ISUTC – um grupo na rede social WhatsApp com mais de mil integrantes. Embora este canal de comunicação seja útil, quando ocorre uma divulgação dos itens nem todos têm acesso as mensagens em tempo útil. Dos que têm, nem todos prestam atenção ou chegam realmente a abrir a mensagem. Tendo em conta que no mesmo grupo são tratados diversos assuntos, os relatos de itens perdidos podem passar desapercebidos. Desta forma, o presente trabalho descreve uma proposta de um sistema acessível pela web que permita registrar e listar itens perdidos, reclamar e marcar os itens já devolvidos como achados, e notificar periodicamente aos usuários cadastrados melhorando o processo de identificação e reclamação pelos respetivos proprietários. É esperado que este sistema contribua significativamente para o bem-estar da comunidade estudantil sendo uma solução criada por membros, e para membros, da mesma.
+----
+# Facto e dimensões
+![Modelo em estrla Perdidos e Achados](https://github.com/user-attachments/assets/9ffcea83-585e-4c87-9414-d17790a6bc62)
 
+dimEdificios: Dimensão dos edifícios
+Edificios - nome dos edifícios
+idEdificio - Id dos edificios
+
+
+dimCor: Dimensão das cores
+Cor - nome da cor
+idCor - idCores
+
+
+dimCalendario: Dimensão dos calendários
+Ano - Ano
+Data - Data DD/MM/YY
+Day - Dia 
+Month - Mês
+NomeMes - Nome do mês
+QuartoAno - Quarter year
+WeekMonth - número da semana no mês
+
+
+dimSala: Dimensão das salas
+idEdicio - id do Edifício
+idSala - id da Sala
+Sala - Nome da sala
+
+
+dimCategoria: Dimensão das categorias
+idCategoria - id da categoria
+Categoria - nome da categoria
+
+
+factoPerdidosAchados: Facto de itens perdidos e achados
+Data - data do acontecimento
+Estado - Estado. eg. perdido, achado ou recuperado
+Hora reporte - hora do acontecimendo
+idCategoria - id daCategoria
+idSala - id da Sala
+idEdificio - id do Edificio
+idCor - id da Cor
+Item - nome do item
+---
 #
 Processo ETL
 https://github.com/Mauroreis100/Perdidos-e-Achados-ETL/blob/main/Perdidos%20e%20Achados%20ETL.ipynb
